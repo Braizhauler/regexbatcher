@@ -1,0 +1,29 @@
+<UI version="4.0" >
+ <class>regexbatcherClass</class>
+ <widget class="QMainWindow" name="regexbatcherClass" >
+  <property name="objectName" >
+   <string notr="true">regexbatcherClass</string>
+  </property>
+  <property name="geometry" >
+   <rect>
+	<x>0</x>
+	<y>0</y>
+	<width>600</width>
+	<height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>regexbatcher</string>
+  </property>
+  <widget class="QMenuBar" name="menuBar" />
+  <widget class="QToolBar" name="mainToolBar" />
+  <widget class="QWidget" name="centralWidget" />
+  <widget class="QStatusBar" name="statusBar" />
+ </widget>
+ <layoutDefault spacing="6" margin="11" />
+ <pixmapfunction></pixmapfunction>
+ <resources>
+   <include location="regexbatcher.qrc"/>
+ </resources>
+ <connections/>
+</UI>
