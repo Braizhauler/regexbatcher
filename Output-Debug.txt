@@ -1,0 +1,68 @@
+﻿'regexbatcher.exe' (Win32): Loaded 'C:\Users\Greg Howlett\Documents\Visual Studio 2015\Projects\regexbatcher\x64\Debug\regexbatcher.exe'. Symbols loaded.
+'regexbatcher.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. Symbols loaded.
+'regexbatcher.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. Symbols loaded.
+'regexbatcher.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. Symbols loaded.
+'regexbatcher.exe' (Win32): Loaded 'C:\Windows\System32\shell32.dll'. Symbols loaded.
+'regexbatcher.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. Symbols loaded.
+'regexbatcher.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140d.dll'. Symbols loaded.
+'regexbatcher.exe' (Win32): Loaded 'C:\Windows\System32\cfgmgr32.dll'. Symbols loaded.
+'regexbatcher.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbase.dll'. Symbols loaded.
+'regexbatcher.exe' (Win32): Loaded 'C:\Windows\System32\SHCore.dll'. Symbols loaded.
+'regexbatcher.exe' (Win32): Loaded 'C:\Windows\System32\rpcrt4.dll'. Symbols loaded.
+'regexbatcher.exe' (Win32): Loaded 'C:\Windows\System32\combase.dll'. Symbols loaded.
+'regexbatcher.exe' (Win32): Loaded 'C:\Windows\System32\bcryptprimitives.dll'. Symbols loaded.
+'regexbatcher.exe' (Win32): Loaded 'C:\Windows\System32\windows.storage.dll'. Symbols loaded.
+'regexbatcher.exe' (Win32): Loaded 'C:\Qt\5.7\msvc2015_64\bin\Qt5Widgetsd.dll'. Symbols loaded.
+'regexbatcher.exe' (Win32): Loaded 'C:\Windows\System32\advapi32.dll'. Symbols loaded.
+'regexbatcher.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. Symbols loaded.
+'regexbatcher.exe' (Win32): Loaded 'C:\Windows\System32\gdi32.dll'. Symbols loaded.
+'regexbatcher.exe' (Win32): Loaded 'C:\Qt\5.7\msvc2015_64\bin\Qt5Cored.dll'. Symbols loaded.
+'regexbatcher.exe' (Win32): Loaded 'C:\Windows\System32\sechost.dll'. Symbols loaded.
+'regexbatcher.exe' (Win32): Loaded 'C:\Windows\System32\gdi32full.dll'. Symbols loaded.
+'regexbatcher.exe' (Win32): Loaded 'C:\Windows\System32\msvcp_win.dll'. Symbols loaded.
+'regexbatcher.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. Symbols loaded.
+'regexbatcher.exe' (Win32): Loaded 'C:\Windows\System32\user32.dll'. Symbols loaded.
+'regexbatcher.exe' (Win32): Loaded 'C:\Windows\System32\win32u.dll'. Symbols loaded.
+'regexbatcher.exe' (Win32): Loaded 'C:\Windows\System32\ole32.dll'. Symbols loaded.
+'regexbatcher.exe' (Win32): Loaded 'C:\Windows\System32\ws2_32.dll'. Symbols loaded.
+'regexbatcher.exe' (Win32): Loaded 'C:\Windows\System32\shlwapi.dll'. Symbols loaded.
+'regexbatcher.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. Symbols loaded.
+'regexbatcher.exe' (Win32): Loaded 'C:\Windows\System32\mpr.dll'. Symbols loaded.
+'regexbatcher.exe' (Win32): Loaded 'C:\Windows\System32\powrprof.dll'. Symbols loaded.
+'regexbatcher.exe' (Win32): Loaded 'C:\Windows\System32\profapi.dll'. Symbols loaded.
+'regexbatcher.exe' (Win32): Loaded 'C:\Qt\5.7\msvc2015_64\bin\Qt5Guid.dll'. Symbols loaded.
+'regexbatcher.exe' (Win32): Loaded 'C:\Windows\System32\imm32.dll'. Symbols loaded.
+'regexbatcher.exe' (Win32): Loaded 'C:\Windows\System32\cryptbase.dll'. Symbols loaded.
+'regexbatcher.exe' (Win32): Loaded 'C:\Qt\5.7\msvc2015_64\plugins\platforms\qwindowsd.dll'. Symbols loaded.
+'regexbatcher.exe' (Win32): Loaded 'C:\Windows\System32\oleaut32.dll'. Symbols loaded.
+'regexbatcher.exe' (Win32): Loaded 'C:\Windows\System32\winmm.dll'. Symbols loaded.
+'regexbatcher.exe' (Win32): Loaded 'C:\Windows\System32\winmmbase.dll'. Symbols loaded.
+'regexbatcher.exe' (Win32): Loaded 'C:\Windows\System32\uxtheme.dll'. Symbols loaded.
+'regexbatcher.exe' (Win32): Loaded 'C:\Windows\System32\dwmapi.dll'. Symbols loaded.
+'regexbatcher.exe' (Win32): Loaded 'C:\Windows\System32\DWrite.dll'. Symbols loaded.
+'regexbatcher.exe' (Win32): Loaded 'C:\Windows\System32\msctf.dll'. Symbols loaded.
+'regexbatcher.exe' (Win32): Loaded 'C:\Windows\System32\clbcatq.dll'. Symbols loaded.
+'regexbatcher.exe' (Win32): Loaded 'C:\Windows\System32\DataExchange.dll'. Symbols loaded.
+'regexbatcher.exe' (Win32): Loaded 'C:\Windows\System32\dcomp.dll'. Symbols loaded.
+'regexbatcher.exe' (Win32): Loaded 'C:\Windows\System32\d3d11.dll'. Symbols loaded.
+'regexbatcher.exe' (Win32): Loaded 'C:\Windows\System32\dxgi.dll'. Symbols loaded.
+'regexbatcher.exe' (Win32): Loaded 'C:\Windows\System32\twinapi.appcore.dll'. Symbols loaded.
+'regexbatcher.exe' (Win32): Loaded 'C:\Windows\System32\bcrypt.dll'. Symbols loaded.
+'regexbatcher.exe' (Win32): Loaded 'C:\Windows\System32\TextInputFramework.dll'. Symbols loaded.
+'regexbatcher.exe' (Win32): Loaded 'C:\Windows\System32\CoreUIComponents.dll'. Symbols loaded.
+'regexbatcher.exe' (Win32): Loaded 'C:\Windows\System32\CoreMessaging.dll'. Symbols loaded.
+'regexbatcher.exe' (Win32): Loaded 'C:\Windows\System32\ntmarta.dll'. Symbols loaded.
+'regexbatcher.exe' (Win32): Loaded 'C:\Windows\System32\WinTypes.dll'. Symbols loaded.
+'regexbatcher.exe' (Win32): Loaded 'C:\Windows\System32\usermgrcli.dll'. Symbols loaded.
+'regexbatcher.exe' (Win32): Unloaded 'C:\Windows\System32\dxgi.dll'
+'regexbatcher.exe' (Win32): Unloaded 'C:\Windows\System32\d3d11.dll'
+'regexbatcher.exe' (Win32): Unloaded 'C:\Windows\System32\dcomp.dll'
+'regexbatcher.exe' (Win32): Unloaded 'C:\Windows\System32\twinapi.appcore.dll'
+'regexbatcher.exe' (Win32): Unloaded 'C:\Windows\System32\DataExchange.dll'
+The thread 0x1910 has exited with code 0 (0x0).
+The thread 0xcb0 has exited with code 0 (0x0).
+The thread 0x23dc has exited with code 0 (0x0).
+The thread 0x34fc has exited with code 0 (0x0).
+The thread 0x2f54 has exited with code 0 (0x0).
+The thread 0x17dc has exited with code 0 (0x0).
+The program '[11308] regexbatcher.exe' has exited with code 0 (0x0).

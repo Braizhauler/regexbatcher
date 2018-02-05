@@ -1,10 +1,10 @@
-#include "regexbatcher.h"
+#include "regexbatcherwindow.h"
 #include <QtWidgets/QApplication>
 
 int main(int argc, char *argv[])
 {
-	QApplication a(argc, argv);
-	regexbatcher w;
-	w.show();
-	return a.exec();
+	QApplication application(argc, argv);
+	regexbatcherwindow window;
+	window.show();
+	return application.exec();
 }
